@@ -12,7 +12,7 @@
 2014-07-16 完成基本的练习模式，和对战模式。界面及交互效果待完善。
 
 
-### Tools
+## Tools
 Node.js + Express
 
 Mongodb、Memcache
@@ -21,4 +21,5 @@ WebStorm
 
 Eclipse+Nodeclipse
 
+## 游戏方式及游戏素材均没有取得授权，请勿用作商业用途
 
